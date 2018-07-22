@@ -1,0 +1,10 @@
+2018-07-22 05:03:51 PM - INFO - Reading recording.3gp
+2018-07-22 05:03:51 PM - INFO - Reading file: recording.3gp ...
+2018-07-22 05:03:52 PM - INFO - Time taken: 0.9056645027942334
+2018-07-22 05:03:52 PM - INFO - Time taken for reading file: 0.9060130010834235
+2018-07-22 05:03:52 PM - INFO - Starting feature engineering
+2018-07-22 05:03:53 PM - INFO - Time taken for feature engineering: 0.19227244088023265
+2018-07-22 05:03:53 PM - INFO - Predicting...
+2018-07-22 05:03:53 PM - INFO - Time taken for prediction: 0.002219501268158952. Is it a baby cry?? ti
+2018-07-22 05:03:53 PM - INFO - Saving prediction...
+2018-07-22 05:03:53 PM - INFO - Saved! output/prediction/prediction.txt
