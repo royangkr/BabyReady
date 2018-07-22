@@ -5,7 +5,16 @@
 https://docs.google.com/presentation/d/1KGU18a1N-L4RJavcVPifYgLgZQPCfYvwJ1LAZQHNNzY/edit?usp=sharing
 
 ## How to run
-Start server by running **BabyReady/BabyReady - Python/try_firebase** on your computer
+### Creating model
+Add data to BabyReady/BabyReady - Python/data/
+
+Run BabyReady/BabyReady - Python/train_set.py
+
+Run BabyReady/BabyReady - Python/train_model.py
+
+A sample model has already been created in BabyReady/BabyReady - Python/output/. You may continue with this if you do not want to create a new model yourself.
+### Running server and client
+Start server by running **BabyReady/BabyReady - Python/try_firebase.py** on your computer
 
 Start client by running android **apk** built from Android Project in BabyReady/BabyReady - Android/
 
