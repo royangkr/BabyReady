@@ -6,6 +6,7 @@ https://docs.google.com/presentation/d/1KGU18a1N-L4RJavcVPifYgLgZQPCfYvwJ1LAZQHN
 
 ## How to run
 Start server by running **BabyReady/BabyReady - Python/try_firebase** on your computer
+
 Start client by running android **apk** built from Android Project in BabyReady/BabyReady - Android/
 
 Alternatively, just run BabyReady/BabyReady - Python/BabyCryRecording on your computer
@@ -17,11 +18,19 @@ Auth tokens for firebase and google cloud have been removed to prevent misuse of
 
 ## Misc
 Code for each reason for baby cry:
+
 bp - belly pain
+
 bu - burp
+
 ch - temperature
+
 dc - discomfort
+
 hu - hungry
+
 lo - lonely
+
 sc - scared
+
 ti - tired
