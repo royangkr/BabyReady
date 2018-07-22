@@ -1,6 +1,7 @@
 # Baby Ready
-### A chatbot that talks to both caregiver and baby
+By Ang Kang Rong, Roy and Kyle Zheng Ching Chan, with help from Tang Yetong
 
+NUS High School of Math & Science, Singapore
 ## Code Architecture
 https://docs.google.com/presentation/d/1KGU18a1N-L4RJavcVPifYgLgZQPCfYvwJ1LAZQHNNzY/edit?usp=sharing
 
