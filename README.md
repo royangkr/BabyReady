@@ -37,11 +37,18 @@ Alternatively, just run BabyReady/BabyReady - Python/BabyCryRecording.py on your
 
 ## Misc
 Codes for each reason for baby cry:
-bp - belly pai
+bp - belly pain
+
 bu - burp
+
 ch - temperature
+
 dc - discomfort
+
 hu - hungry
+
 lo - lonely
+
 sc - scared
+
 ti - tired
