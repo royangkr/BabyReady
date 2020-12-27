@@ -32,7 +32,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAudio==0.2.11
 pycparser==2.20
-pycryptodome==3.4.3
+pycryptodome==3.6.6
 pygame==2.0.1
 pyjsparser==2.7.1
 pyparsing==2.4.7
