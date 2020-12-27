@@ -1,5 +1,6 @@
-﻿# Baby Ready
+﻿# BabyReady
 BabyReady uses a Convolutional Neural Network to predict the reason a baby is crying with a mp3 recording as input.
+
 BabyReady was developed in 2018 by `Ang Kang Rong Roy` and `Kyle Zheng Ching Chan` with help from `Tang Yetong`. It won the champion and healthtech award at Splash Awards 2018 and first runner-up in CodeXtremeApps 2018.
 
 ## How BabyReady works
