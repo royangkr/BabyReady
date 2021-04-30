@@ -44,7 +44,7 @@ pytz==2020.5
 requests==2.25.1
 requests-toolbelt==0.7.0
 resampy==0.2.2
-rsa==4.6
+rsa==4.7
 scikit-learn==0.24.0
 scipy==1.5.4
 six==1.15.0
