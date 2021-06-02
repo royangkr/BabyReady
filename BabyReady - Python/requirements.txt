@@ -53,4 +53,4 @@ soupsieve==2.1
 SpeechRecognition==3.8.1
 threadpoolctl==2.1.0
 tzlocal==2.1
-urllib3==1.26.2
+urllib3==1.26.5
